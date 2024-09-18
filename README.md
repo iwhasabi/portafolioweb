@@ -2,19 +2,19 @@
 
 1 Estructura de Carpetas:
 
-/public: Archivos estáticos (HTML, imágenes, favicon, etc.).
-/src: Todo el código fuente de React.
-/src/components: Componentes React reutilizables (p. ej., tarjetas de imágenes, encabezados).
-/src/pages: Vistas de las páginas principales (Inicio, Detalle de Imagen, Login).
-/src/services: Interacciones con la API y la base de datos.
-/src/utils: Funciones auxiliares (p. ej., generación de IDs aleatorios).
-/src/styles: Archivos CSS o SCSS globales.
-/backend: Archivos PHP para manejo de datos y API.
-/backend/config: Configuraciones de la base de datos (MySQL).
-/backend/controllers: Controladores PHP para las operaciones CRUD.
-/backend/models: Modelos de datos.
-/backend/routes: Definición de rutas para interactuar con el frontend (React).
-/uploads: Carpeta para almacenamiento de imágenes subidas.
+/public: Archivos estáticos (HTML, imágenes, favicon, etc.).  
+/src: Todo el código fuente de React.  
+/src/components: Componentes React reutilizables (p. ej., tarjetas de imágenes, encabezados).  
+/src/pages: Vistas de las páginas principales (Inicio, Detalle de Imagen, Login).  
+/src/services: Interacciones con la API y la base de datos.  
+/src/utils: Funciones auxiliares (p. ej., generación de IDs aleatorios).  
+/src/styles: Archivos CSS o SCSS globales.  
+/backend: Archivos PHP para manejo de datos y API.  
+/backend/config: Configuraciones de la base de datos (MySQL).  
+/backend/controllers: Controladores PHP para las operaciones CRUD.  
+/backend/models: Modelos de datos.  
+/backend/routes: Definición de rutas para interactuar con el frontend (React).  
+/uploads: Carpeta para almacenamiento de imágenes subidas.  
 
 2 Base de datos
 
