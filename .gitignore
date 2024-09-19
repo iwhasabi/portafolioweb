@@ -1,0 +1,6 @@
+# Ignorar carpetas de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de configuración local
+.env
